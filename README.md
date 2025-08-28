@@ -152,9 +152,9 @@ This approach catches **early heating trends** rather than waiting for absolute 
 
 📖 For readers looking for **more technical depth**, check out the accompanying blog series:
 
-* Part 1: Data Gathering on Pico
-* Part 2: Training Logistic Regression
-* Part 3: Real-Time Edge Inference
+* Part 1: [Data Gathering on Pico](https://dev.to/ertugrulmutlu/part-1-data-gathering-on-raspberry-pi-pico-for-edge-ai-trend-alarm-1ca)
+* Part 2: [Training Logistic Regression](https://dev.to/ertugrulmutlu/part-2-training-model-on-raspberry-pi-pico-for-edge-ai-trend-alarm-9gf)
+* Part 3: [Real-Time Edge Inference](https://dev.to/ertugrulmutlu/part-3-real-time-inference-on-pico-firmware-integration-3ga6)
   
 ---
 ## License
