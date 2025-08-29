@@ -47,7 +47,6 @@ pico-edge-trend-alarm/
 Install Python dependencies:
 
 ```bash
-cd train
 pip install -r requirements.txt
 ```
 
